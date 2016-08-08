@@ -1,0 +1,30 @@
+_repo: Oeuvres-po-tiques-Tome-2_12812
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Christine, de Pisan
+    aliases:
+    - Pisan, Christiné de
+    - Pizan, Christine de
+    - Pisan, Christine de
+    birthdate: 1363
+    deathdate: 1430
+    gutenberg_agent_id: '4613'
+    url: http://www.gutenberg.org/2009/agents/4613
+    wikipedia: http://en.wikipedia.org/wiki/Christine_de_Pizan
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2004-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12812'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+- GITenberg
+title: Oeuvres poétiques Tome 2
+url: http://www.gutenberg.org/ebooks/12812
