@@ -1,5 +1,8 @@
 _repo: Oeuvres-po-tiques-Tome-2_12812
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Christine, de Pisan
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4613
     wikipedia: http://en.wikipedia.org/wiki/Christine_de_Pizan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12812#Oeuvres-po-tiques-Tome-2
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2004-07-04'
 gutenberg_type: Text
